@@ -6,12 +6,12 @@ import tempfile
 
 # Инициализация клиента OpenAI
 client = OpenAI(
-    api_key="sk-eojihWMYuwlwO4oNjNMX8DbkkkBtLg7I",
+    api_key="",
     base_url="https://api.proxyapi.ru/openai/v1",
 )
 
 # Инициализация Telegram бота
-bot = telebot.TeleBot("7743267539:AAHshvf8rcCY6PKVx1wwWzPNt4rk9-K9T80")
+bot = telebot.TeleBot("")
 
 # Словарь для хранения формата ответа пользователей
 user_preference = {}
