@@ -2,7 +2,7 @@ from openai import OpenAI
 
 # Инициализация клиента OpenAI
 client = OpenAI(
-    api_key="sk-eojihWMYuwlwO4oNjNMX8DbkkkBtLg7I",
+    api_key=" ",
     base_url="https://api.proxyapi.ru/openai/v1",
 )
 
