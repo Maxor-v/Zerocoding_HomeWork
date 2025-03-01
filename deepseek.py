@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "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"  # внутри скобок свой апи ключ отсюда https://openrouter.ai/settings/keys
+API_KEY = " "  # внутри скобок свой апи ключ 
 MODEL = "egoogle/gemini-2.0-flash-exp:free"
 
 
